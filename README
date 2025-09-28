@@ -1,0 +1,29 @@
+# ☎️ Call Centre Performance Analysis – PwC Job Simulation
+
+## 📌 Overview
+This project focuses on analyzing call centre performance data as part of a **PwC Job Simulation**. The goal was to evaluate operational metrics, agent efficiency, and customer experience to identify patterns and provide actionable insights for improving service quality and resource allocation.  
+
+## 🎯 Key Objectives
+- Assess **call volumes** and identify peak hours.  
+- Evaluate **average handling time (AHT)** for different agents and departments.  
+- Analyze **customer satisfaction trends** and feedback patterns.  
+- Segment data to understand performance by agent, team, or time period.  
+- Provide insights to optimize staffing, workflow, and service quality.  
+
+## 🛠️ Tools & Technologies
+- **Microsoft Excel** → Data cleaning & preparation  
+- **Power BI** → Interactive dashboards & visualizations  
+- **DAX Functions** → Calculations for KPIs like AHT, call resolution rates, and agent performance metrics  
+
+## 📊 Process
+1. **Data Cleaning**: Removed duplicates, handled missing values, and standardized timestamps.  
+2. **Segmentation**: Grouped calls by agent, department, time of day, and call type.  
+3. **Visualization**: Built interactive dashboards in Power BI to display KPIs, peak call times, and agent performance.  
+4. **Analysis**: Calculated metrics like Average Handling Time (AHT), call volume per agent, and customer satisfaction scores.  
+5. **Insights**: Identified top-performing agents, bottlenecks, and areas for operational improvement.  
+
+## 📈 Outcome
+- Highlighted peak call periods for better resource planning.  
+- Identified agents and teams with the best performance and areas needing training.  
+- Provided actionable insights to improve customer experience and reduce wait times.  
+- Delivered dashboards for management to monitor call centre KPIs in real-time.  
